@@ -4,7 +4,7 @@ import Layout from './components/Layout';
 
 function App() {
   return (
-    <div className="App bg-slate-800 h-screen">
+    <div className="App h-screen">
       <Layout />
     </div>
   );
