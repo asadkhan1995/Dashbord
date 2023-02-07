@@ -6,5 +6,12 @@ module.exports = {
   theme: {
     extend: {},
   },
+  variants:{
+    
+    extend: {
+      textColor: ['active'],
+    },
+
+  },
   plugins: [],
 }

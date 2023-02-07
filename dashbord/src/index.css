@@ -1,3 +1,18 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body{
+    background-color: hsl(226, 43%, 10%);
+    
+}
+.bg-color:hover{
+    background-color: hsl(246, 80%, 60%);
+}
+.bg-color1{
+    background-color: hsl(235, 46%, 20%);
+}
+.bg-color2{
+    background-color: hsl(264, 64%, 52%);
+}
+/*  */
